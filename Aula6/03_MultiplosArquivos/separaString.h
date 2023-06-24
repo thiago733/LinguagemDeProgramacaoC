@@ -1,0 +1,1 @@
+char *separaString(char *destino, char *tamanho, int posicaoInicial, int posicaoFinal);
